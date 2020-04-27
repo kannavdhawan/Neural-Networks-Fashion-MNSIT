@@ -1,0 +1,1 @@
+Analyzing the results obtained by applying CNN, alexnet, Lenet-5, Resnet and VGG-16
